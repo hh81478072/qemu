@@ -29,7 +29,7 @@
 #ifndef REMOTE_PORT_ERR_DEBUG
 #define REMOTE_PORT_DEBUG_LEVEL 0
 #else
-#define REMOTE_PORT_DEBUG_LEVEL 1
+#define REMOTE_PORT_DEBUG_LEVEL 2
 #endif
 
 #define DB_PRINT_L(level, ...) do { \
